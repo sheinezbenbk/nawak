@@ -1,0 +1,35 @@
+header {
+    width: 100%;
+    min-height: 100vh;
+    position: relative;
+    background-image: url('img/header.png');
+    background-size: cover;
+    background-position: center top -600px;
+    background-repeat: no-repeat; 
+ }
+
+ .titre-1 {
+    font-family: 'Font Climate Crisis', sans-serif; 
+    font-weight: 900;
+    font-size: 180px; 
+    line-height: 216px; 
+    letter-spacing: 5%; 
+    margin: 0;
+    color: #ffffff;
+    position: relative;
+    top: 300px;
+    margin-bottom: 250px; 
+    
+  }
+
+  .titre-2 {
+    font-family: 'Gasoek One', sans-serif; 
+    font-weight: 300;
+    font-size: 100px;
+    line-height: 120px; 
+    letter-spacing: 5%; 
+    margin: 0;
+    color: #ffffff;
+    margin-left: 9px;
+  }
+
